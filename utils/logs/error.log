@@ -1,0 +1,1 @@
+{"level":"error","message":"{\"errno\":-2,\"syscall\":\"copyfile\",\"code\":\"ENOENT\",\"path\":\"../utils/content_types\",\"dest\":\"/Users/saurav.upadhyay/Expert Service/Team Fury/migration-Tridion/tridionMigrationData/content_types\"}"}

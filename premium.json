@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "isRtf": true,
+    "cache": "300",
+    "consumer": "KL",
+    "group": "information",
+    "lastPublished": "2022/11/29 09:24:01",
+    "locale": "en-GB",
+    "market": "nl",
+    "name": "premium-comfort-class",
+    "provider": "kl",
+    "publisherId": "tcm:1035-1089363",
+    "type": "experience",
+    "version": "r1",
+    "userId": "CADRA\\X087131",
+    "resource": "information/travel-class-extra-options/premium-comfort-class",
+    "tool": "tridion",
+    "accessType": "public"
+  },
+  "data": {
+    "seo": {
+      "title": "Travelling in KLM’s Premium Comfort Class - KLM Netherlands",
+      "description": "Fly Premium Comfort Class with KLM and enjoy SkyPriority, a comfortable seat, the privacy of a separate cabin, and a broader choice of food and drinks.  - KLM Netherlands",
+      "url": "information/travel-class-extra-options/premium-comfort-class"
+    },
+    "content": [
+      {
+        "type": "block",
+        "sections": [
+          {
+            "type": "herobanner",
+            "data": {
+              "image": {
+                "url": "https://img.static-kl.com/images/media/8BD0E88C-287E-467F-B17D048B3F16F38E",
+                "alt": "Woman with head phone in Premium Comfort class"
+              }
+            }
+          },
+          {
+            "type": "title",
+            "value": "Travelling in Premium Comfort Class",
+            "data": {
+              "eventValue": "travelling-in-premium-comfort-class"
+            }
+          },
+          {
+            "type": "description",
+            "value": "Looking for a little more choice, convenience, and comfort? Travel in our Premium Comfort Class and enjoy more space in a separate cabin on intercontinental flights."
+          },
+          {
+            "type": "notification",
+            "data": {
+              "variant": "information",
+              "title": "Converting our aircraft",
+              "text": "We start equipping our aircraft with the new Premium Comfort Class in the second half of 2022. By January 2024, the transformation will be complete on all Boeing 777 and 787 aircraft flying to intercontinental destinations!"
+            }
+          },
+          {
+            "type": "paragraph",
+            "value": "<p>Are you travelling intercontinental and not sure which travel class you want to book? To help you choose, we’ve compared the features of our Economy Class, Premium Comfort Class, and Business Class.</p>",
+            "data": {
+              "expansionPanel": false,
+              "title": "Compare KLM’s travel classes",
+              "eventValue": "compare-klm-s-travel-classes",
+              "highlight": true
+            },
+            "subSections": [
+              {
+                "type": "nextbestaction",
+                "data": {
+                  "variant": "NBA-Secondary",
+                  "title": "Compare travel classes",
+                  "icon": "uxportal-copy",
+                  "link": {
+                    "url": "https://www.klm.nl/en/information/travel-class-extra-options/compare-travel-classes",
+                    "eventValue": "compare-travel-classes",
+                    "openInNewWindow": false,
+                    "openingMode": "modal",
+                    "uri": "/information/travel-class-extra-options/compare-travel-classes"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "type": "card",
+            "value": "You barely have to spend any time waiting in a queue; with SkyPriority, you can board as one of the first.",
+            "data": {
+              "title": "SkyPriority",
+              "image": {
+                "url": "https://img.static-kl.com/images/media/78248BC8-56AE-4299-A5E865CCC5D78D9E",
+                "alt": "Woman at airport"
+              },
+              "variant": "card-experience"
+            }
+          },
+          {
+            "type": "card",
+            "value": "Sit down in your comfortable seat with lots of legroom. You’ll travel in a quiet cabin of just 21 to 28 seats – fully separated from Economy Class and Business Class.",
+            "data": {
+              "title": "Comfortable seat",
+              "image": {
+                "url": "https://img.static-kl.com/images/media/62FB9746-933C-4182-94553DDBE014D07E",
+                "alt": "Woman in Premium Comfort class"
+              },
+              "link": {
+                "url": "https://www.klm.nl/en/information/travel-class-extra-options/premium-comfort-class-seats",
+                "text": "Check seat options   ",
+                "eventValue": "check-seat-options",
+                "openInNewWindow": false,
+                "uri": "/information/travel-class-extra-options/premium-comfort-class-seats"
+              },
+              "variant": "card-experience"
+            }
+          },
+          {
+            "type": "card",
+            "value": "Want to spend your time efficiently? On most flights, you can charge your device with in-seat power (110V or USB-A or C).",
+            "data": {
+              "title": "Charge your device",
+              "image": {
+                "url": "https://img.static-kl.com/images/media/614784AD-C9AB-4C4B-AA78105D35A82603",
+                "alt": "Premium Comfort device charger"
+              },
+              "variant": "card-experience"
+            }
+          },
+          {
+            "type": "quote",
+            "data": {
+              "title": "Enjoy the Premium Comfort Class experience."
+            }
+          },
+          {
+            "type": "card",
+            "value": "Choose from 3 delicious meals and combine your favourite dishes with selected wines and liqueurs.",
+            "data": {
+              "title": "Savour a premium meal",
+              "image": {
+                "url": "https://img.static-kl.com/images/media/B70DAFA5-3EFA-40C6-9776D7C596D66563",
+                "alt": "Premium Comfort meal"
+              },
+              "link": {
+                "url": "https://www.klm.nl/en/information/travel-class-extra-options/premium-comfort-class-meals",
+                "text": "See what’s cooking ",
+                "eventValue": "see-what-s-cooking",
+                "ariaLabel": "See what’s cooking in Premium Comfort Class",
+                "openInNewWindow": false,
+                "uri": "/information/travel-class-extra-options/premium-comfort-class-meals"
+              },
+              "variant": "card-experience"
+            }
+          },
+          {
+            "type": "card",
+            "value": "Settle in with a fruit juice, soft drink, beer, or wine. Rather have a hot drink? We also offer coffee and tea on our flights.",
+            "data": {
+              "title": "Have a refreshment",
+              "image": {
+                "url": "https://img.static-kl.com/images/media/4220BE09-03D3-4EE4-8B77A5FEBE9928A6",
+                "alt": "Couple in Premium Comfort class"
+              },
+              "variant": "card-experience"
+            }
+          },
+          {
+            "type": "card",
+            "value": "You’ll find an amenity kit on your seat with some essentials, like a toothbrush, sleep mask, and ear plugs.",
+            "data": {
+              "title": "Receive a comfort kit",
+              "image": {
+                "url": "https://img.static-kl.com/images/media/8281A8AF-2A96-4A81-915C44B9650DFF33",
+                "alt": "Cabin attendants hands an amenity kit to female passenger"
+              },
+              "variant": "card-experience"
+            }
+          },
+          {
+            "type": "quote",
+            "data": {
+              "title": "Our sustainable comfort kit is made from recycled plastic."
+            }
+          },
+          {
+            "type": "card",
+            "value": "More and more of our flights have inflight WiFi. Spot a WiFi sticker? You can message colleagues, friends, and family – for free!",
+            "data": {
+              "title": "Stay in touch",
+              "image": {
+                "url": "https://img.static-kl.com/images/media/ACF48E45-CA7D-48E2-A669818BE668898F",
+                "alt": "Woman with child in Premium Comfort class"
+              },
+              "link": {
+                "url": "https://www.klm.nl/en/information/travel-class-extra-options/inflight-wifi",
+                "text": "Check how to connect",
+                "eventValue": "check-how-to-connect",
+                "ariaLabel": "Check how to connect to inflight WiFi",
+                "openInNewWindow": false,
+                "uri": "/information/travel-class-extra-options/inflight-wifi"
+              },
+              "variant": "card-experience"
+            }
+          },
+          {
+            "type": "card",
+            "value": "Do you have an intercontinental flight? Watch popular movies and TV shows on the in-flight entertainment system.",
+            "data": {
+              "title": "Watch a movie",
+              "image": {
+                "url": "https://img.static-kl.com/images/media/35D4D761-4DC4-4620-9935BDA1F6724256",
+                "alt": "Man in Premium Comfort looking at screen"
+              },
+              "link": {
+                "url": "https://entertainment.klm.com",
+                "text": "See what’s on this month",
+                "eventValue": "see-what-s-on-this-month",
+                "openInNewWindow": true
+              },
+              "variant": "card-experience"
+            }
+          }
+        ]
+      },
+      {
+        "type": "full-width",
+        "sections": [
+          {
+            "type": "title",
+            "value": "Read more about",
+            "data": {
+              "eventValue": "read-more-about"
+            },
+            "subSections": [
+              {
+                "type": "card",
+                "value": "What is the SkyPriority service and how can you use it?",
+                "data": {
+                  "title": "SkyPriority",
+                  "link": {
+                    "url": "https://www.klm.nl/en/information/airport/skypriority",
+                    "eventValue": "skypriority",
+                    "openInNewWindow": false,
+                    "uri": "/information/airport/skypriority"
+                  }
+                }
+              },
+              {
+                "type": "card",
+                "value": "Treat yourself to an upgrade to Premium Comfort Class or Business Class for extra privacy and comfort. ",
+                "data": {
+                  "title": "Upgrade options",
+                  "link": {
+                    "url": "https://www.klm.nl/en/information/manage-booking/upgrades",
+                    "eventValue": "upgrade-options",
+                    "openInNewWindow": false,
+                    "uri": "/information/manage-booking/upgrades"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "created": "2022/05/16 13:32:04",
+      "deeplink": "https://tridionlive.klm.com/WebUI/item.aspx?tcm=16#id=tcm:1035-1089363",
+      "id": "tcm:1035-1089363",
+      "location": "\\1 Netherlands - 2EN\\Building Blocks\\B2C\\Information\\090 Onboard experience and services\\010 Welcome on board\\020 Travelling in Premium Comfort Class",
+      "modified": "2022/11/17 11:55:04",
+      "provider": "kl",
+      "version": "17"
+    }
+  }
+}
